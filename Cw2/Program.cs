@@ -10,6 +10,10 @@ namespace Cw2
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("ckladjkoashjodaso");
+            Console.ReadKey();
+
         }
     }
 }
